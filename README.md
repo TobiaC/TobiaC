@@ -1,6 +1,7 @@
 ### Hey, I'm Tobia Cargnello 👋🏻
 
-- 📚 I’m currently a master degree student in Artificial Intelligence and Cybersecurity at the University of Udine (Italy) and Univeristy Klagenfurt (Austria)
+- I'm currently working as a consultant in Blue Reply
+- 📚 I have a master degree student in Artificial Intelligence and Cybersecurity at the University of Udine (Italy) and Univeristy Klagenfurt (Austria)
 - 🤖 I'm interested in Reinforcement Learning/Deep Learning and Software Engineering
 - ☕️ I'm a passionate guitarist, traveler and tea addicted
 
